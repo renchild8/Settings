@@ -34,6 +34,8 @@ alias graph='git graph'
 alias cupi='carthage update --platform iOS'
 alias cbpi='carthage bootstrap --platform iOS'
 
+## Xcode
+alias simreset='xcrun simctl erase all'
 
 # branch name
 ## git setting
